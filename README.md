@@ -1,1 +1,1 @@
-# Excelproject_PPH
+In this project, I used Excel to clean a dataset that contains the information about the freelance jobs posted in PeoplePerHour from January 18 to March 18, 2023. After cleaning the dataset, I proceeded to create an interactive dashboard that showcases the important informations from the jobs posted. The dataset can be found in Kaggle using the link https://www.kaggle.com/datasets/prtpljdj/freeelance-platform-projects
